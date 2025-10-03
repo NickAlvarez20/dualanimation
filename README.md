@@ -30,7 +30,7 @@ This project includes these features:
 Simple, educational implementation focused on animation principles
 ## Getting Started & Installation
 Clone the repository to your local machine:
-`git clone https://github.com/NickAlvarez20/dualanimation.git`
+`git clone https://github.com/NickAlvarez20/Khan-Academy-James-Bond-Animation.git`
 ## Usage
 Include the JavaScript script (jamesBondAnimation.js) in an HTML file and open it in a web browser
 
